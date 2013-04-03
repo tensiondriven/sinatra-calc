@@ -1,0 +1,29 @@
+div {
+  line-height: 1;
+}
+
+.controls {
+  font-size: 36px;
+  text-align: center;
+}
+
+.row {
+}
+
+.operand {
+  font-size: 60px;
+  text-align: center;
+}
+
+.operator {
+  font-size: 40px;
+  text-align: center;
+}
+
+.result {
+  font-size: 160px;
+}
+
+.copyright {
+  text-align: center;
+}
